@@ -1,13 +1,8 @@
 {
-  "address": "kQA95B1QttH8mrXQEJGyuMFiiJB2YoO05X0JW5_0VKmKurp1",
-  "collectionAddress": "kQCn2Nxjm3mS97kgJmcx60b0vdygYtnT0C8euBAXfp1oADNA",
-  "ownerAddress": "0QAj4vcletG5mnA_feq8RUM-m7XNAbEryo1pKHhZo7sAZdFK",
+  "name": "My Custom NFT #1",
+  "description": "Это мой первый NFT с кастомным изображением",
   "image": "https://raw.githubusercontent.com/verranda/forton/main/drop.jpg",
-  "name": "My NFT #9",
-  "description": "Описание моего NFT с изображением drop.jpg",
-  "index": "9",
   "attributes": [],
   "externalUrl": "https://raw.githubusercontent.com/verranda/forton/main/dataton.json",
   "metadataUrl": "https://raw.githubusercontent.com/verranda/forton/main/dataton.json"
 }
-
